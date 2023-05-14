@@ -6,7 +6,7 @@ Things to look at for this project
 * [AirBnB clone](https://intranet.alxswe.com/concepts/74)
 
 -----
-![pic](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230508%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230508T081421Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=d9dc08fd5d0f96743b372adf3761fa8b0d96b6973d02e16c93fef84caffba016)
+![pic](https://github.com/MinenhleNkosi/AirBnB_clone/blob/main/hbnb.png)
 
 ## Background Context
 ### Welcome to the AirBnB clone project!
